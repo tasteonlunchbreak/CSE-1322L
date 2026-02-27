@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class Word {
 
     public String originalWord;

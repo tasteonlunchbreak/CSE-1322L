@@ -1,3 +1,4 @@
+package Lab4;
 public class ParkWallet {
     private int tickets;
     private static boolean holiday = false;

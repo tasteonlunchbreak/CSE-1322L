@@ -1,3 +1,4 @@
+package Lab5;
 public class Savings extends Account { 
     private int numberOfDeposits = 0;
 

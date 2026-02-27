@@ -1,3 +1,4 @@
+package Lab5;
 public class Account {
     private int accountNumber;
     private static int nextNumber = 10001;
