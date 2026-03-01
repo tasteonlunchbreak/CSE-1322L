@@ -1,3 +1,4 @@
+package Lab6;
 public class FibIteration implements FindFib {
     
     @Override

@@ -1,3 +1,4 @@
+package Lab6;
 public class FibFormula implements FindFib {
     
     @Override
