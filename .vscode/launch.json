@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Assignment5",
+            "request": "launch",
+            "mainClass": "Assignment5",
+            "projectName": "CSE 1322L_e250a544"
+        },
+        {
+            "type": "java",
+            "name": "Lab7",
+            "request": "launch",
+            "mainClass": "Lab7",
+            "projectName": "CSE 1322L_e250a544"
+        },
+        {
+            "type": "java",
             "name": "Lab7",
             "request": "launch",
             "mainClass": "Lab7",
