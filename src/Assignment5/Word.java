@@ -1,3 +1,4 @@
+package Assignment5;
 public class Word {
     public final String originalWord;
     public final String candidateWord;
