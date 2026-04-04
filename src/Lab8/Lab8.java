@@ -1,3 +1,4 @@
+package Lab8;
 import java.util.Scanner;
 
 public class Lab8 {
