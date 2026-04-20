@@ -1,3 +1,4 @@
+package Lab10;
 public class Alarm extends Thread{
     private int timer;
     private String name;

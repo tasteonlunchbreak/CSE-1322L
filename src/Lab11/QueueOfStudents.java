@@ -1,3 +1,4 @@
+package Lab11;
 import java.util.ArrayList;
 
 public class QueueOfStudents {

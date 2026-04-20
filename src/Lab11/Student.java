@@ -1,3 +1,4 @@
+package Lab11;
 public class Student {
     private String studentName;
     private BoxOfBooks boxOfBooks;
